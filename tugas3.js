@@ -1,11 +1,11 @@
-// for( let angka = 1; angka <=100; angka++){
-//     if (angka % 2 === 0 ){
-//     console.log(angka + ' GENAP')
-//          } else {
-//     console.log(angka +' GANJIL')
-//          }
+for( let angka = 1; angka <=100; angka++){
+    if (angka % 2 === 0 ){
+    console.log(angka + ' GENAP')
+         } else {
+    console.log(angka +' GANJIL')
+         }
     
-//      }
+     }
 
 for(let angka2 = 1; angka2 <= 100; angka2 += 2){
     if( angka2 % 3 === 0 ){
